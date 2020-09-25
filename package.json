@@ -56,7 +56,7 @@
   },
   "git": {
     "scripts": {
-      "pre-push": "bundle exec jekyll build && surge --project ./ --domain wonderproject.surge.sh"
+      "pre-push": "bundle exec jekyll build && surge _site --domain wonderproject.surge.sh"
     }
   },
   "license": "MIT"
