@@ -1,7 +1,7 @@
 {
   "name": "wonder-project",
-  "description": "Wonder Project uses barber-jekyll",
-  "demo": "http://wonderproject.surge.sh",
+  "description": "Wonder Project, a blog that uses barber-jekyll",
+  "demo": "http://wonderproject.netlify.app",
   "version": "1.0.0",
   "scripts": {
     "start": "bundle exec jekyll serve",
@@ -10,15 +10,14 @@
     "gulp": "gulp"
   },
   "author": {
-    "name": "Samesies",
-    "email": "okay@samesies.io",
-    "url": "http://samesies.io"
+    "name": "Ulysses Douglass",
+    "email": "ulyssesdouglass7@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/samesies/barber-jekyll.git"
+    "url": "https://github.com/ulyssesdouglass/wonder-project.git"
   },
-  "bugs": "https://github.com/samesies/barber-jekyll/issues",
+  "bugs": "https://github.com/ulyssesdouglass/wonder-project/issues",
   "keywords": [
     "barber",
     "jekyll",
@@ -36,7 +35,6 @@
     "babelify": "^10.0.0",
     "browserify": "^16.2.3",
     "eslint": "^5.16.0",
-    "git-scripts": "^0.4.3",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.1.0",
     "gulp-clean-css": "^4.2.0",
@@ -50,14 +48,8 @@
     "stylelint": "^10.1.0",
     "stylelint-config-recommended": "^2.2.0",
     "stylelint-config-standard": "^18.3.0",
-    "surge": "^0.21.6",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
-  },
-  "git": {
-    "scripts": {
-      "pre-push": "bundle exec jekyll build && surge _site --domain wonderproject.surge.sh"
-    }
   },
   "license": "MIT"
 }
