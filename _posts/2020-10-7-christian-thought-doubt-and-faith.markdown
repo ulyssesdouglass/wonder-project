@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christian thought, doubt, and faith"
-date: 2020-5-9
+date: 2020-10-7
 description: 
 image: /assets/images/nietzsche.png
 author: 
@@ -21,13 +21,13 @@ My paraphrase: by faith we think, we ponder, we consider, we understand that God
 
 To be frank, I became Christian freshman year, doubted like crazy, by faith wrestled with God in my brain and in my heart, and now leave college convicted of an invisible hope. I hope you respond to my story by thinking _SOOOO_ hard about what the entire Bible says and respond in complete surrender.
 
-For me, all the way til high school, I enjoyed a sort of care-free bliss that was rooted in negligence.  By this, I mean I never pondered the serious implications of things like death, a Creator God, or those topics we typically call “religion.”   It was kind of a simple time.  
+For me, all the way till high school, I enjoyed a sort of care-free bliss that was rooted in negligence.  By this, I mean I never pondered the serious implications of things like death, a Creator God, or those topics we typically call “religion.”   It was kind of a simple time.  
 
-By the grace of God, end of high school, I realized that I didn't have a clue of what I was doing and that I was really horribly messed up. Desperate, I opened the box I put God in all my life, I began asking questions, reading the bible with others in my community group, and God showed me that he was a glorious lover waiting with arms wide open. Cornell Freshmen year, I fell in love with Jesus, and oh, how glorious he is.  But when the infatuation phase fades, and it does for any person or passion, we must ask if that thing, that person worth it. For me, sophomore year the doubts came rushing in.
+By the grace of God, end of high school, I realized that I didn't have a clue of what I was doing and that I was really horribly messed up. Desperate, I opened the box I put God in all my life, I began asking questions, reading the bible with others in my community group, and God showed me that he was a glorious lover waiting with arms wide open. Cornell Freshmen year, I fell in love with Jesus, and oh, how glorious he is.  But when the infatuation phase fades, and it does for any person or passion, we must ask if that thing, that person, is worth it. For me, sophomore year the doubts came rushing in.
 
 If anyone has read any of the works of Freud, Marx, and Nietzsche, you'll perhaps recognize some of their sentiments in my doubts. 
 
-There i was walking around west campus in the rain talking to myself: Am I a Christian to ease the guilt in my conscience of my presumptuous, perverted, perfectionist past? Is praying just merely focused meditation - talking to myself a nice fluffy fairy tale? Singing songs at worship - am I getting closer to God or closer to my emotions? boy, being a Christian got me an awesome girlfriend and faithful friends. 
+There I was walking around west campus in the rain talking to myself: Am I a Christian to ease the guilt in my conscience of my presumptuous, perverted, perfectionist past? Is praying just merely focused meditation - talking to myself a nice fluffy fairy tale? Singing songs at worship - am I getting closer to God or closer to my emotions? Boy, being a Christian got me an awesome girlfriend and faithful friends. 
 
 Who are you God? Are you even there?
 
@@ -37,7 +37,7 @@ I remember being over at Michelle's house, Michelle I'm doubting, please pray fo
 
 Neitzsche asserted that anyone claiming to have the truth is making a power play. He asked the powerful: "Why do you call for love? Is it not just a way to keep anyone from revolting against your authority?" He asked the powerless: "Why do you call for justice? Is it not just a way for you to get on top?"
 
-I cannot claim to understand all that Nietzsche asserted, but this standard of moral perfection is undeniable.  What's the true motive behind your actions?  The entire Bible paints a clear picture that God so loved the world that he gave his only son and invites us the so love him back. Is this meaning of life, or has the Bible been cleverly fabricated for an ulterior motive?
+I cannot claim to understand all that Nietzsche asserted, but this standard of moral perfection is undeniable.  What's the true motive behind your actions?  The entire Bible paints a clear picture that God so loved the world that he gave his only son and invites us to so love him back. Is this meaning of life, or has the Bible been cleverly fabricated for an ulterior motive?
 
 In Ivy Room talking to Biebs, "yes I'm doubting the resurrection of Christ".
 
@@ -55,7 +55,7 @@ He told the most religious people of his day,
 
 More importantly, he demonstrated for me that he alone upholds this standard, he alone is trustworthy, he alone can save me. Do you know my king? Read and you shall find that he is...
 
-Tenderness without weakness. Strength without harshness. Humility without the slightest lack of confidence. Holiness and unbending convictions without the slightest lack of approachability. Power without insensitivity, passion without prejudice. the harshest judgment on the self-satisfied, yet the most winsome kindness to the most broken and marginal. never inconsistent. never a false step, never a jarring note.
+Tenderness without weakness. Strength without harshness. Humility without the slightest lack of confidence. Holiness and unbending convictions without the slightest lack of approachability. Power without insensitivity. Passion without prejudice. The harshest judgment on the self-satisfied, yet the most winsome kindness to the most broken and marginal. Never inconsistent. Never a false step. Never a jarring note.
 
 He saved others, himself he did not save at the last.
 
@@ -78,6 +78,3 @@ I hope you'll join me by faith to say "Lord, to whom shall we go? You have the w
 
 ###### Feedback?
 Comment on the [Google Doc](https://docs.google.com/document/d/1Z4vPupR409ks75ElxGCODLtgvqmIkW3bQfbkhGzZdtY/edit?usp=sharing)
-
-
-
