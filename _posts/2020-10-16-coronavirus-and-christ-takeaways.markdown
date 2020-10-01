@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coronavirus and Christ takeaways"
-date: 2020-5-16
+date: 2020-10-16
 description: 
 image: /assets/images/coronavirus-and-christ.jpeg
 author: 
@@ -25,8 +25,7 @@ Like everyone, I'm trying to make sense of the novel coronavirus pandemic. There
 
 Not an exhaustive list of all worthwhile points made in the book or what would be helpful to say in this crisis, but these are what stood out to me in my reading. May we all believe these truths. 
 ###### More resources
-- The official website for the book: [Coronavirus and Christ](https://www.desiringgod.org/books/coronavirus-and-christ). They provide the book entirely for free as well as the audiobook, which you can even find on Spotify:
-<iframe src="https://open.spotify.com/embed-podcast/episode/7LoTJULbdORxGVWsDB3nSY" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+- The official website for the book: [Coronavirus and Christ](https://www.desiringgod.org/books/coronavirus-and-christ). They provide the book entirely for free as well as the audiobook.
 - Another Pastor who has helped me think about the coronavirus is Tim Keller. For a brief introduction, you can watch this short video:
 <blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">Why did God allow the coronavirus? <br><br>Three brief responses from <a href="https://twitter.com/timkellernyc?ref_src=twsrc%5Etfw">@TimKellerNYC</a> in a recent <a href="https://twitter.com/PremierRadio?ref_src=twsrc%5Etfw">@PremierRadio</a> interview.<a href="https://t.co/Ddwc2NceSj">pic.twitter.com/Ddwc2NceSj</a></p>&mdash; Matt Smethurst (@MattSmethurst) <a href="https://twitter.com/MattSmethurst/status/1249740970930900998?ref_src=twsrc%5Etfw">April 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - The issue of freewill might seem tangential in a time of the coronavirus, but the question of why doesn't God stop evil from happening is ever so relevant. This short clip of Ravi Zacharias, particularly of the parable he gives at minute five, also helps me in time like this.
