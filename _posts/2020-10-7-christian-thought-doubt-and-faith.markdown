@@ -23,7 +23,7 @@ To be frank, I became Christian freshman year, doubted like crazy, by faith wres
 
 For me, all the way till high school, I enjoyed a sort of care-free bliss that was rooted in negligence.  By this, I mean I never pondered the serious implications of things like death, a Creator God, or those topics we typically call “religion.”   It was kind of a simple time.  
 
-By the grace of God, end of high school, I realized that I didn't have a clue of what I was doing and that I was really horribly messed up. Desperate, I opened the box I put God in all my life, I began asking questions, reading the bible with others in my community group, and God showed me that he was a glorious lover waiting with arms wide open. Cornell Freshmen year, I fell in love with Jesus, and oh, how glorious he is.  But when the infatuation phase fades, and it does for any person or passion, we must ask if that thing, that person, is worth it. For me, sophomore year the doubts came rushing in.
+By the grace of God, near end of high school, I realized that I didn't have a clue of what I was doing and that I was pretty messed up. Desperate, I opened the box I put God in all my life, I began asking questions, reading the bible with others in my community group, and God showed me that he was a glorious lover waiting with arms wide open. Cornell Freshmen year, I fell in love with Jesus, and oh, how glorious he is.  But when the infatuation phase fades, and it does for any person or passion, we must ask if that thing, that person, is worth it. For me, sophomore year the doubts came rushing in.
 
 If anyone has read any of the works of Freud, Marx, and Nietzsche, you'll perhaps recognize some of their sentiments in my doubts. 
 
@@ -45,7 +45,7 @@ Have you ever felt like you belong in an insane asylum? I have.
 
 Sophomore year, junior year, to this very day these doubts live in my head.  You assert your opinion before me or mention anything divine, my mind is whizzing questioning your motives and explaining away the existence of the supernatural.  
 
-I now see clearly that I'm a selfish, sexually twisted, inconsistent, hypocrite.  You see through college, I realized that I'll never leave where I started, not having a clue and being terribly messed up. I knew that I couldn't trust myself, but I now know that I cannot trust anyone else but Jesus.
+I now see clearly that I'm a selfish, twisted, inconsistent, hypocrite.  You see through college, I realized that I'll never leave where I started, not having a clue and being terribly messed up. I knew that I couldn't trust myself, but I now know that I cannot trust anyone else but Jesus.
 
 See, he showed me that he acknowledged and affirmed this standard of moral character.
 
