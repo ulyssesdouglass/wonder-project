@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Consistent Story?"
-date: 2020-7-30
+date: 2020-10-19
 description: 
 image: /assets/images/placeholder-7.jpg
 author: 
