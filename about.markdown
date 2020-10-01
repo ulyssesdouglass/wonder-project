@@ -3,16 +3,9 @@ layout: page
 title: About
 image: /assets/images/thinker-2.jpg
 ---
-## Motivation
-1. Move from consumer to producer
-2. Start conversations with others (this is why Google doc links at the bottom are included to assist asynchronous conversations, but love to go beyond that into in-person, or over the phone conversations)
-3. Snapshot of my thoughts in a formulated way (AKA journaling)
+Wonder Project is just a blog with an emphasis on the concept of wonder. My worldview began to become my own when I began to wonder why I believed what I believed and acted the way I acted. Wonder, to me, means patient curiosity mixed with an open-handed enjoyment of the pursuit of truth.
 
-## Format
-Not sure of the format of the posts yet -- not all will be artistic pros or novel ideas. Hopefully all will capture ideas that at least caused me to stop and wonder. I intend for the material to feel more philosophical and meditative than prescriptive or opinionated.
-
-## Why "Wonder Project"?
-I want to give up instant gratification for savoring curiosity and wonder that gets at the core of the human identity. My life was radically changed when I began questioning my foundations of my thinking. It felt very shaky and scary, but throughout the process I have found new and more solid ground to stand on. I love the feeling I get when I experience, “Wow, I haven’t thought of that before” or "wow, why do I think that way".
+I personally am starting a blog to shift my spare time more in the direction of production rather than consumption. I really do hope for this blog to trigger conversations. I've not had great experiences with comment sections, but I've had great experiences collaborating on Google docs. So if you have any responses please comment or suggest in the corresponding Google doc that is included in each page.
 
 ###### Feedback?
 Comment on the [Google Doc](https://docs.google.com/document/d/1MniFFpmhbLSwa-PllFoqT6fIiZFK_Oi6Wm8xYX5HjyI/edit?usp=sharing)
