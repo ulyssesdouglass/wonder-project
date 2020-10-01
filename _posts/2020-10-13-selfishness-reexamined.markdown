@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Selfishness reexamined"
-date: 2020-5-9
+date: 2020-10-13
 description: 
 image: /assets/images/Narcissus-Caravaggio.jpg
 author: 
