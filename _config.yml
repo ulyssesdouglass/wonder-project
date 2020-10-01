@@ -4,10 +4,10 @@ baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: UA-179012638-1
 
-name: Uysses Douglass
+name: Ulysses Douglass
 title: Wonder Project
 description: >
-  A place to wonder.
+  a blog emphasizing wonder
 url: https://wonderproject.netlify.app/
 default_img: /assets/images/thinker.jpg
 social:
