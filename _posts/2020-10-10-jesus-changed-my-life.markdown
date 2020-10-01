@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jesus changed my life"
-date: 2020-5-6
+date: 2020-10-10
 description: 
 image: /assets/images/Web_JesusChangedMyLife.jpeg
 author: 
