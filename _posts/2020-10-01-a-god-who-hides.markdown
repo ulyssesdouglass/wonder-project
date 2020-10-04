@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A God Who Hides"
-date: 2020-10-1
+date: 2020-10-01
 description: 
 image: /assets/images/dark-smoke.jpeg
 author: 
