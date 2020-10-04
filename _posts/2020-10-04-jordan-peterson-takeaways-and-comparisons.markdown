@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jordan Peterson Takeaways and Comparisons"
-date: 2020-10-4
+date: 2020-10-04
 description: 
 image: /assets/images/jordan-2.jpg
 author: 
