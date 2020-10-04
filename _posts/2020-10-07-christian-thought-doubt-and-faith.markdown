@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christian thought, doubt, and faith"
-date: 2020-10-7
+date: 2020-10-07
 description: 
 image: /assets/images/nietzsche.png
 author: 
