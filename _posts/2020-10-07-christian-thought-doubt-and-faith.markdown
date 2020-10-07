@@ -63,7 +63,7 @@ Nowhere in history is there such a blending of opposites in one person.
 
 After Jesus said something very strange and challenging to his disciples that sent many away, Jesus said to the few remaining, "Do you want to go away as well?"
 
-Neitzsche told me that religion was a way for people to subtlety accrue power.
+Neitzsche told me that religion was a way for people to subtly accrue power.
 
 Jesus, the powerful God in the flesh came and lowered himself, gave his very life on the cross so that I could be lifted up with him.  
 
