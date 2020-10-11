@@ -1,4 +1,4 @@
-### Useful commands, instructions, and links
+### Useful commands, instructions, and links for local development
 ```
 bundle install
 bundle exec jekyll serve
