@@ -14,3 +14,4 @@ https://favicon.io/
 https://shopify.github.io/liquid/
 https://jekyllrb.com/docs/liquid/filters/
 ```
+
